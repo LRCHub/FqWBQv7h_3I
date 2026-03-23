@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Azalea",
   "base_artist": "米津玄師",
-  "createdAt": "2025-12-16T05:44:00.873682Z",
+  "createdAt": "2026-03-23T07:12:42.878788Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_Azalea_米津玄師.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Azalea",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/localdb_01_Azalea_米津玄師.txt",
+      "repo_name": "FqWBQv7h_3I"
     }
   ]
 }
